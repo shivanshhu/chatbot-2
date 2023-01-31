@@ -21,6 +21,8 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/81Zn2ZBoUsw)**</i>
+
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
