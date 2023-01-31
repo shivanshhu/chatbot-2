@@ -32,7 +32,9 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
+
 <i>**[Watch Deploying Tutorial...](https://youtu.be/6zGTteJlnC4)**</i>
+
 <h2 align="center"> 
    ⇝ ɪɴsᴛᴀʟʟ ʟᴏᴄᴀʟʟʏ ᴏʀ ᴏɴ ᴀ ᴠᴘs ⇜
 </h2>
