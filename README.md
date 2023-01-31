@@ -24,15 +24,14 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
-
-<details><summary>Deploy On Vps</summary>
-<p>
-<br>
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/its-star-boi/chatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-skyblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </a>
 </p>
 </details>
 
+<details><summary>Deploy To VPS</summary>
+<p>
+<pre>
 <h2 align="center"> 
    ⇝ ɪɴsᴛᴀʟʟ ʟᴏᴄᴀʟʟʏ ᴏʀ ᴏɴ ᴀ ᴠᴘs ⇜
 </h2>
@@ -58,7 +57,7 @@ $ pip3 install -U -r requirements.txt
 ```console
 $ python3 CandyAi.py , nohup python3 CandyAi.py &
 ```
-</a>
+</pre>
 </p>
 </details>
 
